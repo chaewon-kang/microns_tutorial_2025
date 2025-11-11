@@ -8,4 +8,4 @@ Example tutorial of Microns dataset's simple data query and quick analysis.
 conda env create -f environment.yml -n microns_tutorial_2025
 conda activate microns_tutorial_2025
 ```
-- CAVEclient setup: once you have created conda env, setup CAVEclient. You can follow [this tutorial]([url](https://tutorial.microns-explorer.org/quickstart_notebooks/01-caveclient-setup.html))
+- CAVEclient setup: once you have created conda env, setup CAVEclient. You can follow [this tutorial](https://tutorial.microns-explorer.org/quickstart_notebooks/01-caveclient-setup.html)
