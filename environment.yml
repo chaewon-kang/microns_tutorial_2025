@@ -1,29 +1,6 @@
-name: microns_tutorial_2025
+name: micronsbinder_03
 channels:
-  - conda-forge
-  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
 dependencies:
-  - python=3.9
-  - numpy
-  - pandas
-  - scipy
-  - jupyterlab
-  - ipywidgets
-  - matplotlib
-  - seaborn
-  - scikit-image
-  - scikit-learn
-  - pyqt
-  - pip
-  - pip:
-      - caveclient==8.0.0
-      - cloud-volume==11.0.2
-      - meshparty==1.18.0
-      - pyvista==0.44.2
-      - open3d==0.19.0
-      - plotly==6.0.0
-      - ibllib==2.39.1
-      - iblutil==1.16.0
-      - iblatlas==0.5.4
-      - standard-transform==1.4.0
-      - skeleton-plot==0.0.10
+  - python=3.11
